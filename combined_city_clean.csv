@@ -1,0 +1,136 @@
+overall_rank,category_rank,population_category,city_clean,state_ut,total_score,ss2024_score,gfc_star_rating_score,odf_score
+1,1,> 3 Million,Ahmedabad,Gujarat,12079,9579,1300,1200
+2,2,> 3 Million,Bhopal,Madhya Pradesh,12067,9567,1300,1200
+3,3,> 3 Million,Lucknow,Uttar Pradesh,12001,9501,1300,1200
+4,4,> 3 Million,Raipur,Chhattisgarh,11996,9496,1300,1200
+5,5,> 3 Million,Jabalpur,Madhya Pradesh,11989,9489,1300,1200
+6,6,> 3 Million,Greater Hyderabad,Telangana,11805,9350,1300,1200
+7,7,> 3 Million,Pimpri Chinchwad,Maharashtra,11782,9302,1300,1200
+8,8,> 3 Million,Pune,Maharashtra,11653,9393,1100,1200
+9,1,3 Lakh - 1 Million,Mira-Bhayandar,Maharashtra,11652,9352,1100,1200
+10,9,> 3 Million,Gvmc Visakhapatnam,Andhra Pradesh,11636,9336,1100,1200
+11,2,3 Lakh - 1 Million,Bilaspur,Chhattisgarh,11624,9354,1100,1200
+12,3,3 Lakh - 1 Million,Jamshedpur,Jharkhand,11588,9323,1100,1200
+13,10,> 3 Million,Agra,Uttar Pradesh,11532,9232,1100,1200
+14,11,> 3 Million,Ghaziabad,Uttar Pradesh,11514,9254,1100,1200
+15,12,> 3 Million,Prayagraj,Uttar Pradesh,11292,9017,1100,1200
+16,4,3 Lakh - 1 Million,Gorakhpur,Uttar Pradesh,11278,9108,1100,1200
+17,5,3 Lakh - 1 Million,Ahmedanagar,Maharashtra,11136,9196,800,1200
+18,6,3 Lakh - 1 Million,Panvel,Maharashtra,11119,9249,800,1200
+19,7,3 Lakh - 1 Million,Bhilai Nagar,Chhattisgarh,11055,9160,800,1200
+20,13,> 3 Million,Kanpur,Uttar Pradesh,11022,8802,1100,1200
+21,14,> 3 Million,Gwalior,Madhya Pradesh,10995,9060,800,1200
+22,15,> 3 Million,Thane,Maharashtra,10836,8956,800,1200
+23,16,> 3 Million,Jaipur Greater,Rajasthan,10793,8923,800,1200
+24,17,> 3 Million,Varanasi,Uttar Pradesh,10728,8778,800,1200
+25,18,> 3 Million,Vadodara,Gujarat,10713,8888,800,1200
+26,19,> 3 Million,Rajkot,Gujarat,10634,8844,800,1200
+27,20,> 3 Million,Jaipur Heritage,Rajasthan,10630,8925,800,1000
+28,21,> 3 Million,Patna,Bihar,10584,8659,800,1200
+29,8,3 Lakh - 1 Million,Korba,Chhattisgarh,10564,8719,800,1200
+30,9,3 Lakh - 1 Million,Bhubaneswar,Odisha,10548,8608,800,1200
+31,10,3 Lakh - 1 Million,Moradabad,Uttar Pradesh,10541,8666,800,1200
+32,11,3 Lakh - 1 Million,Mathuravrindavan,Uttar Pradesh,10527,8702,800,1200
+33,12,3 Lakh - 1 Million,Firozabad (M.Corp.),Uttar Pradesh,10502,8647,800,1200
+34,13,3 Lakh - 1 Million,Udaipur (M Cl),Rajasthan,10478,8503,800,1200
+35,14,3 Lakh - 1 Million,Bhavnagar,Gujarat,10416,8691,800,1200
+36,15,3 Lakh - 1 Million,Raurkela Town (M),Odisha,10396,8701,800,1000
+37,16,3 Lakh - 1 Million,Saharanpur,Uttar Pradesh,10338,8758,500,1200
+38,17,3 Lakh - 1 Million,Jhansi,Uttar Pradesh,10159,8509,800,1000
+39,22,> 3 Million,Nashik,Maharashtra,10125,8270,800,1200
+40,18,3 Lakh - 1 Million,Amravati,Maharashtra,10036,8621,500,1200
+41,19,3 Lakh - 1 Million,Rajahmundry,Andhra Pradesh,10017,8402,800,1000
+42,20,3 Lakh - 1 Million,Bareilly,Uttar Pradesh,9913,8433,500,1200
+43,21,3 Lakh - 1 Million,Chandrapur_M,Maharashtra,9878,8288,800,1000
+44,22,3 Lakh - 1 Million,Warangal,Telangana,9821,8511,500,1000
+45,23,3 Lakh - 1 Million,Solapur,Maharashtra,9812,8102,800,1000
+46,23,> 3 Million,Meerut,Uttar Pradesh,9741,8231,500,1200
+47,24,3 Lakh - 1 Million,Nanded Waghala,Maharashtra,9659,8149,500,1200
+48,25,3 Lakh - 1 Million,Rohtak,Haryana,9550,8065,500,1200
+49,26,3 Lakh - 1 Million,Junagadh,Gujarat,9449,8209,500,1200
+50,24,> 3 Million,Kalyan Dombivali,Maharashtra,9436,8046,500,1000
+51,25,> 3 Million,Aurangabad,Maharashtra,9395,7805,500,1200
+52,27,3 Lakh - 1 Million,Gaya,Bihar,9381,7881,800,1000
+53,26,> 3 Million,Aligarh,Uttar Pradesh,9378,8118,500,1000
+54,27,> 3 Million,Nagpur,Maharashtra,9328,8263,0,1200
+55,28,3 Lakh - 1 Million,Ayodhya (M.Corp.),Uttar Pradesh,9291,8146,800,1000
+56,29,3 Lakh - 1 Million,Jamnagar,Gujarat,9241,7816,500,1200
+57,30,3 Lakh - 1 Million,Cuttack,Odisha,9156,7641,500,1200
+58,31,3 Lakh - 1 Million,Kadapa,Andhra Pradesh,9133,7883,500,1000
+59,32,3 Lakh - 1 Million,Davanagere,Karnataka,9131,7806,500,1000
+60,33,3 Lakh - 1 Million,Shahjahanpur(M.Corp),Uttar Pradesh,9059,7759,500,1000
+61,34,3 Lakh - 1 Million,Hubli-Dharwad,Karnataka,9035,7480,500,1200
+62,35,3 Lakh - 1 Million,Latur,Maharashtra,8940,7535,500,1000
+63,36,3 Lakh - 1 Million,Muzaffarnagar (Npp),Uttar Pradesh,8927,7772,500,1000
+64,37,3 Lakh - 1 Million,Nellore,Andhra Pradesh,8891,8131,0,1000
+65,38,3 Lakh - 1 Million,Kakinada,Andhra Pradesh,8842,8097,0,1000
+66,39,3 Lakh - 1 Million,Dhule,Maharashtra,8809,8139,0,1000
+67,40,3 Lakh - 1 Million,Sangli,Maharashtra,8750,7465,500,1200
+68,41,3 Lakh - 1 Million,Gurgaon,Haryana,8664,7824,0,1200
+69,42,3 Lakh - 1 Million,Jammu,Jammu And Kashmir,8655,7225,800,1000
+70,43,3 Lakh - 1 Million,Ulhasnagar,Maharashtra,8632,7812,0,1000
+71,44,3 Lakh - 1 Million,Guwahati,Assam,8563,7848,500,750
+72,45,3 Lakh - 1 Million,Kurnool,Andhra Pradesh,8506,7956,0,1000
+73,28,> 3 Million,Coimbatore,Tamil Nadu,8347,7587,0,1000
+74,29,> 3 Million,Vasai Virar,Maharashtra,8295,7455,0,1000
+75,46,3 Lakh - 1 Million,Rampur (Npp),Uttar Pradesh,8274,7739,0,1000
+76,47,3 Lakh - 1 Million,Yamunanagar (Mcl),Haryana,8267,7647,0,1000
+77,48,3 Lakh - 1 Million,Bikaner,Rajasthan,8255,7430,0,1000
+78,49,3 Lakh - 1 Million,Tiruchirappalli,Tamil Nadu,8239,7629,0,1000
+79,50,3 Lakh - 1 Million,Kochi,Kerala,8181,7236,500,1000
+80,30,> 3 Million,Amritsar,Punjab,8173,7183,0,1200
+81,51,3 Lakh - 1 Million,Malegaon,Maharashtra,8024,7294,0,1000
+82,52,3 Lakh - 1 Million,Jalgaon,Maharashtra,7999,7334,0,1000
+83,53,3 Lakh - 1 Million,Bhilwara (M Cl),Rajasthan,7988,7233,0,1000
+84,54,3 Lakh - 1 Million,Alwar (M Cl),Rajasthan,7935,7155,0,1000
+85,55,3 Lakh - 1 Million,Oulgaret-Ozhukarai,Puducherry,7932,7317,0,1000
+86,31,> 3 Million,Municipal Corporation Of Delhi,Delhi,7920,7080,500,1200
+87,56,3 Lakh - 1 Million,Jodhpur North,Rajasthan,7919,7189,0,1000
+88,57,3 Lakh - 1 Million,Gulbarga (M Corp. Og),Karnataka,7823,7203,0,1000
+89,58,3 Lakh - 1 Million,Thrissur,Kerala,7815,7280,500,750
+90,59,3 Lakh - 1 Million,Hisar,Haryana,7798,7048,0,1200
+91,60,3 Lakh - 1 Million,Loni (Npp),Uttar Pradesh,7756,7241,0,1000
+92,61,3 Lakh - 1 Million,Thoothukudi Corporation,Tamil Nadu,7743,7138,0,1000
+93,62,3 Lakh - 1 Million,Dehradun,Uttarakhand,7614,6994,0,1000
+94,63,3 Lakh - 1 Million,Jodhpur South,Rajasthan,7571,6951,0,1000
+95,64,3 Lakh - 1 Million,Bhagalpur,Bihar,7550,6700,500,750
+96,32,> 3 Million,Srinagar,Jammu And Kashmir,7488,6918,0,750
+97,65,3 Lakh - 1 Million,Parbhani,Maharashtra,7470,6950,0,1000
+98,66,3 Lakh - 1 Million,Kolhapur,Maharashtra,7454,6494,0,1200
+99,33,> 3 Million,Greater Mumbai,Maharashtra,7419,6894,0,750
+100,34,> 3 Million,Faridabad,Haryana,7329,6989,0,1000
+101,67,3 Lakh - 1 Million,Bhiwandi Nizampur,Maharashtra,7232,6852,0,1000
+102,68,3 Lakh - 1 Million,Kota North,Rajasthan,7208,6408,0,1000
+103,35,> 3 Million,Dhanbad,Jharkhand,7196,6986,0,750
+104,69,3 Lakh - 1 Million,Ajmer,Rajasthan,7142,6497,0,1000
+105,70,3 Lakh - 1 Million,Kozhikode,Kerala,7101,6716,0,750
+106,71,3 Lakh - 1 Million,Akola,Maharashtra,7058,6263,0,1000
+107,72,3 Lakh - 1 Million,Belgaum (M Corp. Og),Karnataka,7053,6468,0,750
+108,73,3 Lakh - 1 Million,Bellary,Karnataka,6943,6118,0,1000
+109,74,3 Lakh - 1 Million,Kota South,Rajasthan,6931,6196,0,1000
+110,75,3 Lakh - 1 Million,Brahmapur (M Corp),Odisha,6911,6851,0,1000
+111,76,3 Lakh - 1 Million,Patiala,Punjab,6907,6532,0,1200
+112,77,3 Lakh - 1 Million,Tiruppur,Tamil Nadu,6865,6390,0,1000
+113,36,> 3 Million,Bruhat Bengaluru Mahanagara Palike,Karnataka,6842,6247,0,1200
+114,37,> 3 Million,Ranchi,Jharkhand,6835,6490,0,750
+115,38,> 3 Million,Chennai,Tamil Nadu,6822,6327,0,1200
+116,78,3 Lakh - 1 Million,Muzaffarpur,Bihar,6698,6283,0,750
+117,79,3 Lakh - 1 Million,Nizamabad,Telangana,6684,6724,0,500
+118,80,3 Lakh - 1 Million,Biharsharif,Bihar,6675,6050,0,750
+119,81,3 Lakh - 1 Million,Shimoga (Cmc),Karnataka,6666,6201,0,1000
+120,82,3 Lakh - 1 Million,Jalandhar,Punjab,6525,5800,0,1200
+121,83,3 Lakh - 1 Million,Bijapur,Karnataka,6524,6264,0,500
+122,84,3 Lakh - 1 Million,Tambaram,Tamil Nadu,6417,6267,0,1000
+123,85,3 Lakh - 1 Million,Vellore,Tamil Nadu,6395,5775,0,1000
+124,86,3 Lakh - 1 Million,Mangalore,Karnataka,6315,6285,0,500
+125,87,3 Lakh - 1 Million,Avadi,Tamil Nadu,6297,6162,0,1000
+126,88,3 Lakh - 1 Million,Agartala,Tripura,6292,5542,0,1000
+127,89,3 Lakh - 1 Million,Thiruvananthapuram,Kerala,5871,5991,0,1200
+128,90,3 Lakh - 1 Million,Tirunelveli,Tamil Nadu,5869,5809,0,1000
+129,91,3 Lakh - 1 Million,Salem,Tamil Nadu,5633,5518,0,1000
+130,92,3 Lakh - 1 Million,Tumkur,Karnataka,5590,4840,0,1000
+131,93,3 Lakh - 1 Million,Kollam,Kerala,5376,6121,0,500
+132,39,> 3 Million,Ludhiana,Punjab,5272,5542,0,750
+133,94,3 Lakh - 1 Million,Erode,Tamil Nadu,4911,4511,0,1200
+134,40,> 3 Million,Madurai,Tamil Nadu,4823,4643,0,1000
+135,95,3 Lakh - 1 Million,Mathura Cantt.,Uttar Pradesh,3452,3572,0,0

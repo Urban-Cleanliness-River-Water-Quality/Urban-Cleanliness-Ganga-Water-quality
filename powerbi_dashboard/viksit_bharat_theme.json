@@ -1,0 +1,99 @@
+{
+  "name": "Viksit Bharat Executive",
+  "dataColors": ["#1D4E89", "#E07A1F", "#138808", "#0F7C8C", "#B3261E", "#6B7A90", "#D4A017", "#5B2C83", "#2E86AB", "#8C564B"],
+  "background": "#FFFFFF",
+  "foreground": "#1B2A41",
+  "tableAccent": "#1D4E89",
+  "good": "#138808",
+  "neutral": "#D4A017",
+  "bad": "#B3261E",
+  "maximum": "#1D4E89",
+  "center": "#9DB4D3",
+  "minimum": "#EAF0F7",
+  "textClasses": {
+    "callout": { "fontSize": 26, "fontFace": "Segoe UI Semibold", "color": "#1B2A41" },
+    "title": { "fontSize": 11, "fontFace": "Segoe UI Semibold", "color": "#1B2A41" },
+    "header": { "fontSize": 10, "fontFace": "Segoe UI Semibold", "color": "#1B2A41" },
+    "label": { "fontSize": 9, "fontFace": "Segoe UI", "color": "#5B6B7F" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 100 }],
+        "border": [{ "show": false }],
+        "dropShadow": [{ "show": false }],
+        "title": [{
+          "show": true,
+          "fontColor": { "solid": { "color": "#1B2A41" } },
+          "fontSize": 11,
+          "fontFamily": "Segoe UI Semibold",
+          "alignment": "left"
+        }],
+        "visualHeader": [{ "show": true, "transparency": 0 }],
+        "categoryAxis": [{
+          "labelColor": { "solid": { "color": "#5B6B7F" } },
+          "fontSize": 8,
+          "showAxisTitle": false,
+          "gridlineShow": false
+        }],
+        "valueAxis": [{
+          "labelColor": { "solid": { "color": "#5B6B7F" } },
+          "fontSize": 8,
+          "showAxisTitle": false,
+          "gridlineColor": { "solid": { "color": "#E6EBF1" } },
+          "gridlineStyle": "dotted"
+        }],
+        "legend": [{
+          "show": true,
+          "position": "Top",
+          "labelColor": { "solid": { "color": "#5B6B7F" } },
+          "fontSize": 8
+        }],
+        "labels": [{ "color": { "solid": { "color": "#1B2A41" } }, "fontSize": 8 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#EDF1F6" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#E2E8F0" } }, "transparency": 0 }]
+      }
+    },
+    "card": {
+      "*": {
+        "title": [{ "show": false }],
+        "labels": [{ "color": { "solid": { "color": "#1B2A41" } }, "fontSize": 24, "fontFamily": "Segoe UI Semibold" }],
+        "categoryLabels": [{ "show": true, "color": { "solid": { "color": "#5B6B7F" } }, "fontSize": 9, "fontFamily": "Segoe UI" }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "title": [{ "show": false }],
+        "header": [{
+          "show": true,
+          "fontColor": { "solid": { "color": "#5B6B7F" } },
+          "textSize": 9,
+          "fontFamily": "Segoe UI Semibold",
+          "outline": "None"
+        }],
+        "items": [{
+          "fontColor": { "solid": { "color": "#1B2A41" } },
+          "background": { "solid": { "color": "#F5F7FA" } },
+          "textSize": 9,
+          "fontFamily": "Segoe UI",
+          "outline": "None"
+        }]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "legend": [{ "show": true, "position": "Bottom" }],
+        "labels": [{ "show": true, "labelStyle": "Percent of total", "fontSize": 9 }]
+      }
+    },
+    "textbox": {
+      "*": {
+        "title": [{ "show": false }]
+      }
+    }
+  }
+}
